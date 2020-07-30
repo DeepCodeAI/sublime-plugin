@@ -1,5 +1,7 @@
 # DeepCodeAI package for Sublime
 
+[![deepcode](https://www.deepcode.ai/api/gh/badge?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF0Zm9ybTEiOiJnaCIsIm93bmVyMSI6IkRlZXBDb2RlQUkiLCJyZXBvMSI6InN1YmxpbWUtcGx1Z2luIiwiaW5jbHVkZUxpbnQiOmZhbHNlLCJhdXRob3JJZCI6MTI0NjksImlhdCI6MTU5NjA5NzUzNX0.Ey93YE71KoR3yDoWqmGvPW4JERr12LCyrQAJVkDeR5k)](https://www.deepcode.ai/app/gh/DeepCodeAI/sublime-plugin/_/dashboard?utm_content=gh%2FDeepCodeAI%2Fsublime-plugin)
+
 **The Sublime package provided by <a href="https://www.deepcode.ai/">DeepCode.ai</a> finds bugs and critical vulnerabilities in your code. We support Java, Python, JavaScript, TypeScript and C/C++.**
 
 
